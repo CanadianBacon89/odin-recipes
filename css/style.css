@@ -1,9 +1,25 @@
 body {
     background-color: #0cf5f2;
     color: #f71bed;
-    margin-left: 40px;    
+    margin-left: 80px;    
 }
 
 h1 {
     color: #e9f71b;
+    font-size: 52px;
+}
+
+h2 {
+    color: #e9f71b;
+    font-size: 36px;
+}
+
+h3 {
+    color: #e9f71b;
+    font-size: 28px;
+}
+
+.back {
+    font-size: 12px;
+    margin-left: -40px;
 }
